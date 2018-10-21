@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ayoub Chouak",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "seneca": "^3.7.0"
   }
